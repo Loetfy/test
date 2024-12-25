@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "67628bdad948041e65964034"
+  },
+  "ID": 11230251000008,
+  "Nama": "Bilqis Hazhiratul Qudsi",
+  "Status": "AKtif",
+  "Anggota": "Mahasiswa"
+},
+{
+  "_id": {
+    "$oid": "67628c52d948041e65964035"
+  },
+  "ID": 11230251000052,
+  "Nama": "Loetfy Adyaksa Sabara",
+  "Status": "Aktif",
+  "Anggota": "Mahasiswa"
+},
+{
+  "_id": {
+    "$oid": "6762b0bbd948041e65964038"
+  },
+  "ID": 11230251000033,
+  "Nama": "Afif Arhab Ramadhan",
+  "Status": "Aktif",
+  "Anggota": "Mahasiswa"
+},
+{
+  "_id": {
+    "$oid": "6762b0bbd948041e65964039"
+  },
+  "ID": 11230251000034,
+  "Nama": "Andita Aulia",
+  "Status": "Aktif",
+  "Anggota": "Mahasiswa"
+},
+{
+  "_id": {
+    "$oid": "6762b0bbd948041e6596403a"
+  },
+  "ID": 11230251000100,
+  "Nama": "Nurul Kholifa",
+  "Status": "Aktif",
+  "Anggota": "Mahasiswa"
+}]

@@ -1,0 +1,50 @@
+[{
+  "_id": {
+    "$oid": "67650a4dac293ede23964038"
+  },
+  "Judul": "Bulan",
+  "Nama_Pengarang": "Tere Liye",
+  "Tahun_Terbit": "2023",
+  "Tempat_Terbit": "Jakarta",
+  "ISBN": -96922
+},
+{
+  "_id": {
+    "$oid": "67650a4dac293ede23964039"
+  },
+  "Judul": "Lupus:The Lost Boy",
+  "Nama_Pengarang": "Hilman",
+  "Tahun_Terbit": "2004",
+  "Tempat_Terbit": "Jakarta",
+  "ISBN": -515
+},
+{
+  "_id": {
+    "$oid": "67650a4dac293ede2396403a"
+  },
+  "Judul": "Tanah Para Bandit",
+  "Nama_Pengarang": "Tere LIye",
+  "Tahun_Terbit": "2023",
+  "Tempat_Terbit": "Jakarta",
+  "ISBN": -87952
+},
+{
+  "_id": {
+    "$oid": "67650a4dac293ede2396403b"
+  },
+  "Judul": "Rindu",
+  "Nama_Pengarang": "Tere Liye",
+  "Tahun_Terbit": "2014",
+  "Tempat_Terbit": "Jakarta",
+  "ISBN": -8715
+},
+{
+  "_id": {
+    "$oid": "67650a4dac293ede2396403c"
+  },
+  "Judul": "Pandangan Pertama",
+  "Nama_Pengarang": "Yoana Dianika",
+  "Tahun_Terbit": "2013",
+  "Tempat_Terbit": "Jakarta",
+  "ISBN": -427
+}]
